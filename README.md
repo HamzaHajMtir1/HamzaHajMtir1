@@ -10,8 +10,6 @@
 
 - 🎞️ I'm a **video editor!**
 
-- 👨‍💻 All of my projects are available [https://github.com/HamzaHajMtir1?tab=repositories](Here)
-
 - 📫 How to reach me **hamzahajmtir@gmail.com**
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100009080517074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza.haj.mtir" height="30" /></a>&nbsp;
