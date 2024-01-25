@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning **everything!**
 
 - 🎞️ I'm a **video editor!**
+  
+- ✨ I'm looking forward to learning great things.
 
 - 📫 How to reach me **hamzahajmtir@gmail.com**
 <h3 align="left">Connect with me:</h3>
