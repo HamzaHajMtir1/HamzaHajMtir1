@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzahajmtir1&show_icons=true&locale=en&layout=compact" alt="hamzahajmtir1" /></p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahajmtir1&" alt="hamzahajmtir1" /></p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahajmtir1&theme=tokyonight" alt="mystreak"/>
 
 
