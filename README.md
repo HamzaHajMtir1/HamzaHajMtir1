@@ -10,7 +10,7 @@
 
 - 🎞️ I'm a **video editor!**
 
-- 👨‍💻 All of my projects are available [Here](Here)
+- 👨‍💻 All of my projects are available [https://github.com/HamzaHajMtir1?tab=repositories](Here)
 
 - 📫 How to reach me **hamzahajmtir@gmail.com**
 <p align="left">
