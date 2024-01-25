@@ -8,6 +8,8 @@
 <h3>&nbsp;- 🌱 I’m currently learning everything! <br/></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.facebook.com/profile.php?id=100009080517074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="felipe.elia" height="30" /></a>&nbsp;
+  <a href="https://www.facebook.com/profile.php?id=100009080517074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza.haj.mtir" height="30" /></a>&nbsp;
+  <a href="https://www.instagram.com/hamza.haj.mtir/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza.haj.mtir" height="30" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/hamza-haj-mtir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hamza Haj Mtir" height="30" /></a> &nbsp;
 </p>
 
