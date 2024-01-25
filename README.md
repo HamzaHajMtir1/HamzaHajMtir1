@@ -4,14 +4,16 @@
 <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 <h2>🧐 Some Things About Me</h2>
 
-- 🔭 I’m currently working on **on a web projects!**
+- 🔭 I’m currently working on **on a web projects.**
 
 - 🌱 I’m currently learning **everything!**
 
 - 🎞️ I'm a **video editor!**
   
-- ✨ I'm looking forward to learning great things.
-
+- ✨ I'm looking **forward to learning great things.**
+  
+- 🌱 Always looking for collaborators. **collaborators.**
+  
 - 📫 How to reach me **hamzahajmtir@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
