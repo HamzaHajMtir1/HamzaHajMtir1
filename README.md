@@ -1,7 +1,7 @@
 <h1 align="center">Hey Folks 👋, I'm Hamza Haj Mtir</h1>
 <h2 align="center">Software Engineering Student | Web Developer</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaHajMtir1" alt="HamzaHajMtir1" /> </p>
-<img src="[https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png](https://www.hamzahajmtir.tn/)" align="right" width="25%"/>
+<img src="https://www.hamzahajmtir.tn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.84f89ad9.png&w=384&q=75" align="right" width="25%"/>
 <h2>🧐 Some Things About Me</h2>
 
 - 🔭 I’m currently working on **on a web projects.**
