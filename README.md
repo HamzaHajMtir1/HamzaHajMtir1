@@ -1,5 +1,5 @@
-<h1 align="center">Hey Folks 👋, I'm Hamza Haj Mtir</h1>
-<h2 align="center">Software Engineering Student | Web Developer</h2>
+<h1 align="center">Hey Folks 👋, I'm Hamza HAJ MTIR</h1>
+<h2 align="center">Full Stack Developer</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaHajMtir1" alt="HamzaHajMtir1" /> </p>
 
 <h2>🧐 Some Things About Me</h2>
