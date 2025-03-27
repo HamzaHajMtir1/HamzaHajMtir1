@@ -4,7 +4,7 @@
 <img src="https://www.hamzahajmtir.tn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.84f89ad9.png&w=384&q=75" 
      align="right" 
      width="20%" 
-     style="margin-top: 20px;"/>
+     style="margin-top: 20px; display: block;"/>
 
 <h2>🧐 Some Things About Me</h2>
 
