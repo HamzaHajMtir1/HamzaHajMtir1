@@ -6,7 +6,7 @@
 <h2>🧐 Some Things About Me</h2>
 <img src="https://www.hamzahajmtir.tn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.84f89ad9.png&w=384&q=75" align="right" width="20%"/>
 
-- 🔭 I’m currently working on **on a web projects.**
+- 🔭 I’m currently working **on a web projects.**
 
 - 🌱 I’m currently learning **everything.**
 
@@ -14,7 +14,7 @@
   
 - ✨ I'm looking **forward to learning great things.**
   
-- 🌱 Always looking for collaborators. **collaborators.**
+- 🌱 Always looking for **collaborators.**
   
 - 📫 How to reach me **hamzahajmtir@gmail.com**
 
