@@ -36,7 +36,7 @@
   </a>&nbsp;
 
   <a href="https://www.hamzahajmtir.tn" target="blank">
-    <img align="center" src="https://www.hamzahajmtir.tn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.84f89ad9.png&w=384&q=75" alt="Portfolio" height="30" />
+    <img align="center" src="https://www.hamzahajmtir.tn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.84f89ad9.png&w=384&q=75" alt="Portfolio" height="35" />
   </a>
 </p>
 
