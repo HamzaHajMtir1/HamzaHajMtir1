@@ -16,7 +16,7 @@
 - 🌱 Always looking for collaborators. **collaborators.**
   
 - 📫 How to reach me **hamzahajmtir@gmail.com**
-<h3 align="left">Connect with me:</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100009080517074" target="blank">
