@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Hamza Haj Mtir
+# 👋 Hi, I'm Hamza HAJ MTIR
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&repeat=true&width=950&height=80&lines=%3E_+DevOps+%26+Cloud+Engineer+☁️;%3E_+Full+Stack+Developer+💻;%3E_+Designing+Cloud+Infrastructure+🏗️;%3E_+Automating+CI%2FCD+Pipelines+⚙️;%3E_+Docker+→+Kubernetes+→+Cloud+🚀;%3E_+Build.+Automate.+Deploy.+Scale.+🔥)](https://git.io/typing-svg)
 
@@ -20,7 +20,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://www.hamzahajmtir.tn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.84f89ad9.png&w=384&q=75" width="260" alt="Hamza Haj Mtir Logo"/>
+<img align="right" src="https://www.hamzahajmtir.tn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.84f89ad9.png&w=384&q=75" width="200" alt="Hamza Haj Mtir Logo"/>
 
 - ☁️ Focusing on **DevOps, Cloud Engineering & Infrastructure Automation**
 - 🔭 Currently working on **Web, Cloud & DevOps projects**
@@ -175,14 +175,18 @@
 
 ---
 
-### ⚡ FROM CODE TO CLOUD ☁️
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=750&lines=Build+it.;Automate+it.;Deploy+it.;Monitor+it.;Scale+it.+🚀)](https://git.io/typing-svg)
+<h3>⚡ FROM CODE TO CLOUD ☁️</h3>
 
-**DevOps & Cloud Engineering ☁️ • Full Stack Development 💻**
+<p>
+  <strong>DevOps & Cloud Engineering ☁️ • Full Stack Development 💻</strong>
+</p>
 
-<br/>
+<p>
+  ⭐ <strong>Always learning. Always building. Always improving.</strong>
+</p>
 
-⭐ **Always learning. Always building. Always improving.**
+</div>
 
 </div>
