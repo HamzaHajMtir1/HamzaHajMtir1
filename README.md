@@ -18,7 +18,9 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
+
+<img align="right" src="./assets/logo.png" width="260" alt="Hamza Haj Mtir Logo"/>
 
 - ☁️ Focusing on **DevOps, Cloud Engineering & Infrastructure Automation**
 - 🔭 Currently working on **Web, Cloud & DevOps projects**
@@ -30,8 +32,10 @@
 - 🌱 Continuously learning and exploring new technologies
 - 🎬 Also passionate about **Video Editing**
 - 🤝 Always looking for **collaborations and innovative projects**
-- 📫 Reach me at **hamzahajmtir@gmail.com**
-- 🌐 Portfolio: **www.hamzahajmtir.tn**
+- 📫 Reach me at **[hamzahajmtir@gmail.com](mailto:hamzahajmtir@gmail.com)**
+- 🌐 Portfolio: **[www.hamzahajmtir.tn](https://www.hamzahajmtir.tn/)**
+
+<br clear="both"/>
 
 ---
 
