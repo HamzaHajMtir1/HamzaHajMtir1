@@ -1,18 +1,17 @@
-<!-- ======================================================= -->
-<!--                    HAMZA HAJ MTIR                       -->
-<!--           DEVOPS • CLOUD • FULL STACK ENGINEER          -->
-<!-- ======================================================= -->
-
 <h1 align="center">
-  Hi 👋, I'm Hamza Haj Mtir
+  Hi 👋, I'm Hamza HAJ MTIR
 </h1>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=2496ED&center=true&vCenter=true&width=850&lines=DevOps+%26+Cloud+Engineer+☁️;Full+Stack+Developer+💻;Building+Scalable+Cloud+Infrastructure+🚀;Automating+Builds%2C+Deployments+%26+Infrastructure+⚙️;Docker+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&repeat=true&width=950&height=80&lines=%3E_+DevOps+%26+Cloud+Engineer+☁️;%3E_+Full+Stack+Developer+💻;%3E_+Designing+Cloud+Infrastructure+🏗️;%3E_+Automating+CI%2FCD+Pipelines+⚙️;%3E_+Docker+→+Kubernetes+→+Cloud+🚀;%3E_+Build.+Automate.+Deploy.+Scale.+🔥)](https://git.io/typing-svg)
 </div>
 
+<p align="center">
+  <strong>Turning ideas into scalable, automated and production-ready systems.</strong>
+</p>
+<p align="center">
+  ☁️ Cloud &nbsp;•&nbsp; ⚙️ DevOps &nbsp;•&nbsp; 💻 Full Stack &nbsp;•&nbsp; 🚀 Automation
+</p>
 <p align="center">
   DevOps & Cloud Engineer and Full Stack Developer passionate about building
   <b>scalable applications</b>, automating infrastructure, and transforming
@@ -24,6 +23,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat" alt="Open to Collaboration"/>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaHajMtir1" alt="HamzaHajMtir1" /> </p>
 
 ---
 
@@ -123,35 +123,26 @@
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<p align="left">
+  <a href="https://www.facebook.com/profile.php?id=100009080517074" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza.haj.mtir" height="30" />
+  </a>&nbsp;
+  
+  <a href="https://www.instagram.com/hamza.haj.mtir/?next=%2F" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza.haj.mtir" height="30" />
+  </a>&nbsp;
+  
+  <a href="https://www.linkedin.com/in/hamza-haj-mtir/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hamza Haj Mtir" height="30" />
+  </a>&nbsp;
+  
+  <a href="https://wa.me/21624222310" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" />
+  </a>&nbsp;
 
-<a href="https://www.hamzahajmtir.tn/">
-  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Website-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
-</a>
-
-<a href="https://www.linkedin.com/in/hamza-haj-mtir">
-  <img src="https://img.shields.io/badge/LinkedIn-Hamza_Haj_Mtir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:hamzahajmtir@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://github.com/HamzaHajMtir1">
-  <img src="https://img.shields.io/badge/GitHub-HamzaHajMtir1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<a href="https://www.hamzahajmtir.tn/">
-  <img src="https://img.shields.io/badge/View_Portfolio-→-2496ED?style=flat-square" />
-</a>
-
-<a href="mailto:hamzahajmtir@gmail.com">
-  <img src="https://img.shields.io/badge/Open_to-Collaboration-2ea44f?style=flat-square" />
-</a>
-
-</div>
+  <a href="https://www.hamzahajmtir.tn" target="blank">
+    <img align="center" src="https://www.hamzahajmtir.tn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.84f89ad9.png&w=384&q=75" alt="Portfolio" height="35" />
+  </a>
 
 ---
 
@@ -173,18 +164,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img
-  width="48%"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamzaHajMtir1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Hamza Haj Mtir Top Languages"
-/>
-
-</div>
-
 ---
 
 ## 📈 Contribution Activity
@@ -200,57 +179,6 @@
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy-liard-delta.vercel.app/?username=HamzaHajMtir1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"
-  alt="Hamza Haj Mtir GitHub Trophies"
-/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HamzaHajMtir1/HamzaHajMtir1/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HamzaHajMtir1/HamzaHajMtir1/output/github-snake.svg"
-  />
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/HamzaHajMtir1/HamzaHajMtir1/output/github-snake.svg"
-  />
-</picture>
-
-</div>
-
----
-
-## 💬 Dev Quote
-
-<div align="center">
-
-<img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
-  alt="Dev Quote"
-/>
-
-</div>
-
----
-
-<div align="center">
 
 ### ⚡ FROM CODE TO CLOUD ☁️
 
