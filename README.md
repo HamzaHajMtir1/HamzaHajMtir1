@@ -1,49 +1,293 @@
-<h1 align="center">Hi👋, I'm Hamza HAJ MTIR</h1>
-<h2 align="center">Full Stack Developer</h2>
-<h2 align="center">I turn your vision into reality</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaHajMtir1" alt="HamzaHajMtir1" /> </p>
+<!-- ======================================================= -->
+<!--                    HAMZA HAJ MTIR                       -->
+<!--           DEVOPS • CLOUD • FULL STACK ENGINEER          -->
+<!-- ======================================================= -->
 
-<h2>🧐 Some Things About Me</h2>
-<img src="https://www.hamzahajmtir.tn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.84f89ad9.png&w=384&q=75" align="right" width="20%"/>
+<h1 align="center">
+  Hi 👋, I'm Hamza Haj Mtir
+</h1>
 
-- 🔭 I’m currently working **on a web projects.**
+<div align="center">
 
-- 🌱 I’m currently learning **everything.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=2496ED&center=true&vCenter=true&width=850&lines=DevOps+%26+Cloud+Engineer+☁️;Full+Stack+Developer+💻;Building+Scalable+Cloud+Infrastructure+🚀;Automating+Builds%2C+Deployments+%26+Infrastructure+⚙️;Docker+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD)](https://git.io/typing-svg)
 
-- 🎞️ I'm a **video editor!**
-  
-- ✨ I'm looking **forward to learning great things.**
-  
-- 🌱 Always looking for **collaborators.**
-  
-- 📫 How to reach me **hamzahajmtir@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.facebook.com/profile.php?id=100009080517074" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza.haj.mtir" height="30" />
-  </a>&nbsp;
-  
-  <a href="https://www.instagram.com/hamza.haj.mtir/?next=%2F" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza.haj.mtir" height="30" />
-  </a>&nbsp;
-  
-  <a href="https://www.linkedin.com/in/hamza-haj-mtir/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Hamza Haj Mtir" height="30" />
-  </a>&nbsp;
-  
-  <a href="https://wa.me/21624222310" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" />
-  </a>&nbsp;
-
-  <a href="https://www.hamzahajmtir.tn" target="blank">
-    <img align="center" src="https://www.hamzahajmtir.tn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.84f89ad9.png&w=384&q=75" alt="Portfolio" height="35" />
-  </a>
+<p align="center">
+  DevOps & Cloud Engineer and Full Stack Developer passionate about building
+  <b>scalable applications</b>, automating infrastructure, and transforming
+  ideas into reliable production-ready systems.
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HamzaHajMtir1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat" alt="Open to Collaboration"/>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzahajmtir1&show_icons=true&locale=en&layout=compact" alt="hamzahajmtir1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzahajmtir1&" alt="hamzahajmtir1" /></p>
+## 👨‍💻 About Me
 
+- ☁️ Focusing on **DevOps, Cloud Engineering & Infrastructure Automation**
+- 🔭 Currently working on **Web, Cloud & DevOps projects**
+- 🐳 Building and deploying applications using **Docker**
+- ☸️ Exploring **Kubernetes, container orchestration & Cloud Native technologies**
+- ⚙️ Automating deployments with **CI/CD pipelines**
+- 🏗️ Interested in **Infrastructure as Code, Terraform & scalable architectures**
+- 💻 Building Full Stack applications with **Spring Boot, Angular, React & Next.js**
+- 🌱 Continuously learning and exploring new technologies
+- 🎬 Also passionate about **Video Editing**
+- 🤝 Always looking for **collaborations and innovative projects**
+- 📫 Reach me at **hamzahajmtir@gmail.com**
+- 🌐 Portfolio: **www.hamzahajmtir.tn**
 
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="Kubernetes"/>
+  <img src="https://skillicons.dev/icons?i=terraform" height="45" alt="Terraform"/>
+  <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="Jenkins"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="GitHub Actions"/>
+  <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="45" alt="Spring Boot"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="FastAPI"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap"/>
+</p>
+
+### 🗄️ Databases & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis"/>
+  <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="Prisma"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="IntelliJ IDEA"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman"/>
+  <img src="https://skillicons.dev/icons?i=npm" height="45" alt="NPM"/>
+</p>
+
+---
+
+## 🚀 DevOps Workflow
+
+<div align="center">
+
+```text
+CODE
+  │
+  ▼
+GIT / GITHUB
+  │
+  ▼
+BUILD ──► TEST ──► SECURITY
+  │
+  ▼
+DOCKER
+  │
+  ▼
+CI / CD
+  │
+  ▼
+KUBERNETES
+  │
+  ▼
+CLOUD
+  │
+  ▼
+PRODUCTION
+  │
+  ▼
+MONITOR ──► IMPROVE ──► SCALE 🚀
+```
+
+### `BUILD • AUTOMATE • DEPLOY • MONITOR • SCALE`
+
+</div>
+
+---
+
+## 🧠 What Drives Me
+
+```yaml
+hamza:
+  role:
+    - DevOps & Cloud Engineer
+    - Full Stack Developer
+
+  mission:
+    - Build scalable systems
+    - Automate repetitive processes
+    - Deploy reliable applications
+    - Design cloud-ready architectures
+    - Keep learning
+
+  mindset:
+    code: clean
+    infrastructure: automated
+    deployments: repeatable
+    monitoring: always_on
+    learning: continuous
+
+  status: "Ready to build 🚀"
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.hamzahajmtir.tn/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hamza-haj-mtir">
+  <img src="https://img.shields.io/badge/LinkedIn-Hamza%20Haj%20Mtir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hamzahajmtir@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HamzaHajMtir1">
+  <img src="https://img.shields.io/badge/GitHub-HamzaHajMtir1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=HamzaHajMtir1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  alt="Hamza's GitHub Stats"
+/>
+
+<img
+  width="49%"
+  src="https://streak-stats.demolab.com?user=HamzaHajMtir1&theme=tokyonight&hide_border=true"
+  alt="Hamza's GitHub Streak"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  width="45%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaHajMtir1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Hamza's Top Languages"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaHajMtir1&theme=tokyo-night&hide_border=true&area=true"
+  alt="Hamza's Activity Graph"
+/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=HamzaHajMtir1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
+  alt="Hamza's GitHub Trophies"
+/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/HamzaHajMtir1/HamzaHajMtir1/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+## 💬 Dev Quote
+
+<div align="center">
+
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+  alt="Dev Quote"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ FROM CODE TO CLOUD ☁️
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=750&lines=Build+it.;Automate+it.;Deploy+it.;Monitor+it.;Scale+it.+🚀)](https://git.io/typing-svg)
+
+**DevOps & Cloud Engineering ☁️ • Full Stack Development 💻**
+
+<br/>
+
+⭐ **Always learning. Always building. Always improving.**
+
+</div>
