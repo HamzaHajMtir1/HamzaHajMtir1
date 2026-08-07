@@ -1,11 +1,24 @@
-<h1 align="center">
-  Hi 👋, I'm Hamza HAJ MTIR
-</h1>
-
 <div align="center">
+
+# 👋 Hi, I'm Hamza Haj Mtir
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=1800&pause=600&color=58A6FF&center=true&vCenter=true&repeat=true&width=950&height=80&lines=%3E_+DevOps+%26+Cloud+Engineer+☁️;%3E_+Full+Stack+Developer+💻;%3E_+Designing+Cloud+Infrastructure+🏗️;%3E_+Automating+CI%2FCD+Pipelines+⚙️;%3E_+Docker+→+Kubernetes+→+Cloud+🚀;%3E_+Build.+Automate.+Deploy.+Scale.+🔥)](https://git.io/typing-svg)
+
+### 🚀 Turning ideas into scalable, automated & production-ready systems.
+
+☁️ **Cloud** &nbsp; • &nbsp; ⚙️ **DevOps** &nbsp; • &nbsp; 💻 **Full Stack** &nbsp; • &nbsp; 🔄 **CI/CD** &nbsp; • &nbsp; 🚀 **Automation**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=HamzaHajMtir1&label=PROFILE+VIEWS&color=2496ED&style=for-the-badge" alt="Profile Views"/>
+
+&nbsp;
+
+<img src="https://img.shields.io/github/followers/HamzaHajMtir1?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717" alt="Followers"/>
+
 </div>
 
+---
 <p align="center">
   <strong>Turning ideas into scalable, automated and production-ready systems.</strong>
 </p>
