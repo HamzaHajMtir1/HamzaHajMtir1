@@ -12,8 +12,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=HamzaHajMtir1&label=PROFILE+VIEWS&color=2496ED&style=for-the-badge" alt="Profile Views"/>
 
-&nbsp;
-
 <img src="https://img.shields.io/github/followers/HamzaHajMtir1?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717" alt="Followers"/>
 
 </div>
