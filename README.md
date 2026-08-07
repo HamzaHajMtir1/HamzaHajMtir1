@@ -50,13 +50,13 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="45" alt="Microsoft Azure"/>
   <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux"/>
   <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" height="45" alt="Kubernetes"/>
   <img src="https://skillicons.dev/icons?i=terraform" height="45" alt="Terraform"/>
   <img src="https://skillicons.dev/icons?i=jenkins" height="45" alt="Jenkins"/>
   <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="GitHub Actions"/>
-  <img src="https://skillicons.dev/icons?i=nginx" height="45" alt="Nginx"/>
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash"/>
 </p>
 
@@ -78,8 +78,7 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js"/>
   <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap"/>
 </p>
 
@@ -93,81 +92,32 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="Prisma"/>
 </p>
 
-### 🔧 Tools
+### 🚀 Platforms & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel"/>
+  
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="45" width="45" alt="WordPress"/>
+  
+  <img src="https://cdn.simpleicons.org/odoo/714B67" height="45" width="45" alt="Odoo"/>
+</p>
+
+### 📋 Project Management & Productivity
+
+<p>
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="45" width="45" alt="Jira"/>
+  
+  <img src="https://cdn.simpleicons.org/notion/FFFFFF" height="45" width="45" alt="Notion"/>
+</p>
+
+### 🔧 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=idea" height="45" alt="IntelliJ IDEA"/>
   <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman"/>
-  <img src="https://skillicons.dev/icons?i=npm" height="45" alt="NPM"/>
 </p>
-
----
-
-## 🚀 DevOps Workflow
-
-<div align="center">
-
-```text
-CODE
-  │
-  ▼
-GIT / GITHUB
-  │
-  ▼
-BUILD ──► TEST ──► SECURITY
-  │
-  ▼
-DOCKER
-  │
-  ▼
-CI / CD
-  │
-  ▼
-KUBERNETES
-  │
-  ▼
-CLOUD
-  │
-  ▼
-PRODUCTION
-  │
-  ▼
-MONITOR ──► IMPROVE ──► SCALE 🚀
-```
-
-### `BUILD • AUTOMATE • DEPLOY • MONITOR • SCALE`
-
-</div>
-
----
-
-## 🧠 What Drives Me
-
-```yaml
-hamza:
-  role:
-    - DevOps & Cloud Engineer
-    - Full Stack Developer
-
-  mission:
-    - Build scalable systems
-    - Automate repetitive processes
-    - Deploy reliable applications
-    - Design cloud-ready architectures
-    - Keep learning
-
-  mindset:
-    code: clean
-    infrastructure: automated
-    deployments: repeatable
-    monitoring: always_on
-    learning: continuous
-
-  status: "Ready to build 🚀"
-```
 
 ---
 
