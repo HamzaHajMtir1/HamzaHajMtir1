@@ -123,42 +123,52 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://www.hamzahajmtir.tn/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐_PORTFOLIO-Visit_My_Website-1f6feb?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/>
 </a>
 
 <a href="https://www.linkedin.com/in/hamza-haj-mtir">
-  <img src="https://img.shields.io/badge/LinkedIn-Hamza%20Haj%20Mtir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Hamza_Haj_Mtir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:hamzahajmtir@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/HamzaHajMtir1">
-  <img src="https://img.shields.io/badge/GitHub-HamzaHajMtir1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-HamzaHajMtir1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</p>
+<br/><br/>
+
+<a href="https://www.hamzahajmtir.tn/">
+  <img src="https://img.shields.io/badge/View_Portfolio-→-2496ED?style=flat-square" />
+</a>
+
+<a href="mailto:hamzahajmtir@gmail.com">
+  <img src="https://img.shields.io/badge/Open_to-Collaboration-2ea44f?style=flat-square" />
+</a>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=HamzaHajMtir1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-  alt="Hamza's GitHub Stats"
+  width="48%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=HamzaHajMtir1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  alt="Hamza Haj Mtir GitHub Stats"
 />
 
 <img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=HamzaHajMtir1&theme=tokyonight&hide_border=true"
-  alt="Hamza's GitHub Streak"
+  width="48%"
+  src="https://streak-stats.demolab.com?user=HamzaHajMtir1&theme=tokyonight&hide_border=true&border_radius=10"
+  alt="Hamza Haj Mtir GitHub Streak"
 />
 
 </div>
@@ -168,25 +178,26 @@
 <div align="center">
 
 <img
-  width="45%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaHajMtir1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  alt="Hamza's Top Languages"
+  width="48%"
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HamzaHajMtir1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  alt="Hamza Haj Mtir Top Languages"
 />
 
 </div>
 
-<br/>
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
 <img
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaHajMtir1&theme=tokyo-night&hide_border=true&area=true"
-  alt="Hamza's Activity Graph"
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=HamzaHajMtir1&theme=tokyo-night&hide_border=true&area=true&radius=8"
+  alt="Hamza Haj Mtir Contribution Graph"
 />
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
