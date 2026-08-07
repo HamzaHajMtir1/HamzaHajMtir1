@@ -19,26 +19,6 @@
 </div>
 
 ---
-<p align="center">
-  <strong>Turning ideas into scalable, automated and production-ready systems.</strong>
-</p>
-<p align="center">
-  ☁️ Cloud &nbsp;•&nbsp; ⚙️ DevOps &nbsp;•&nbsp; 💻 Full Stack &nbsp;•&nbsp; 🚀 Automation
-</p>
-<p align="center">
-  DevOps & Cloud Engineer and Full Stack Developer passionate about building
-  <b>scalable applications</b>, automating infrastructure, and transforming
-  ideas into reliable production-ready systems.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HamzaHajMtir1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-success?style=flat" alt="Open to Collaboration"/>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HamzaHajMtir1" alt="HamzaHajMtir1" /> </p>
-
----
 
 ## 👨‍💻 About Me
 
