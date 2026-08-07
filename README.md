@@ -198,6 +198,7 @@
 />
 
 </div>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -205,8 +206,8 @@
 <div align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=HamzaHajMtir1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"
-  alt="GitHub Trophies"
+  src="https://github-profile-trophy-liard-delta.vercel.app/?username=HamzaHajMtir1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"
+  alt="Hamza Haj Mtir GitHub Trophies"
 />
 
 </div>
@@ -220,15 +221,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/HamzaHajMtir1/HamzaHajMtir1/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/HamzaHajMtir1/HamzaHajMtir1/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/HamzaHajMtir1/HamzaHajMtir1/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/HamzaHajMtir1/HamzaHajMtir1/output/github-snake.svg"
   />
   <img
     alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/HamzaHajMtir1/HamzaHajMtir1/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/HamzaHajMtir1/HamzaHajMtir1/output/github-snake.svg"
   />
 </picture>
 
